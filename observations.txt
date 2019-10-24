@@ -1,0 +1,14 @@
+Observations:
+1. Latitude vs. Temperature: 
+    (a) The distance from Equator affects the temperature.
+    (b) If the city is farther away, the temperature is colder.
+    (c) If the city is closer to the equator, the temperature is warmer.
+
+2. Latitude vs. Humidity: 
+    (a) Needs additional analysis, may be addition of Temperature as a parameter can help us derive better observations.
+    
+3. Latitude vs. Cloudiness:
+    (a) Needs additional analysis, no observation can be made with the available information.
+    
+4. Latitude vs. Wind Speed: 
+    (a)Windspeeds seem to be high at latitudes furthest from the equator.
