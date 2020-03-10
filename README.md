@@ -25,7 +25,7 @@ Our final notebook :
 
 
 
-* You must complete your analysis using a Jupyter notebook.
+
 * You must use the Matplotlib or Pandas plotting libraries.
 * You must include a written description of three observable trends based on the data.
 * You must use proper labeling of your plots, including aspects like: Plot Titles (with date of analysis) and Axes Labels.
