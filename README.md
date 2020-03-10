@@ -30,7 +30,7 @@ Our final notebook :
 
 
 
-## Hints and Considerations
+
 
 * The city data is generated based on random coordinates; as such, your outputs will not be an exact match to the provided starter notebook.
 
