@@ -28,7 +28,7 @@ Our final notebook :
 
 
 
-* See [Example Solution](WeatherPy_Example.pdf) for a reference on expected format.
+
 
 ## Hints and Considerations
 
