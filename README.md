@@ -18,7 +18,6 @@ Whether financial, political, or social -- data's true power lies in its ability
 
 
 
-4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
 
 5. Push the above changes to GitHub or GitLab.
 
