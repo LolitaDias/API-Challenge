@@ -12,7 +12,7 @@ Whether financial, political, or social -- data's true power lies in its ability
 
 
 
-1. Create a new repository for this project called `python-api-challenge`. **Do not add this homework to an existing repository**.
+
 
 2. Clone the new repository to your computer.
 
