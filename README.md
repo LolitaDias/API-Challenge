@@ -19,7 +19,7 @@ Whether financial, political, or social -- data's true power lies in its ability
 
 
 
-5. Push the above changes to GitHub or GitLab.
+
 
 ## WeatherPy
 
