@@ -22,22 +22,3 @@ Our final notebook :
 3. Includes a print log of each city as it's being processed with the city number and city name.
 4. Saves both a CSV of all data retrieved and png images for each scatter plot.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
