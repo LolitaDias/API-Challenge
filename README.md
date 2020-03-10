@@ -13,14 +13,14 @@ Our objective is to build a series of scatter plots to showcase the following re
 1. Temperature (F) vs. Latitude
 2. Humidity (%) vs. Latitude
 3. Cloudiness (%) vs. Latitude
-4.  Wind Speed (mph) vs. Latitude
+4. Wind Speed (mph) vs. Latitude
 
 Our final notebook :
 
-* Randomly selects **at least** 500 unique (non-repeat) cities based on latitude and longitude.
-* Performs a weather check on each of the cities using a series of successive API calls.
-* Includes a print log of each city as it's being processed with the city number and city name.
-* Saves both a CSV of all data retrieved and png images for each scatter plot.
+1. Randomly selects **at least** 500 unique (non-repeat) cities based on latitude and longitude.
+2. Performs a weather check on each of the cities using a series of successive API calls.
+3. Includes a print log of each city as it's being processed with the city number and city name.
+4. Saves both a CSV of all data retrieved and png images for each scatter plot.
 
 As final considerations:
 
