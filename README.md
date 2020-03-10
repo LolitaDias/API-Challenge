@@ -6,7 +6,7 @@ Whether financial, political, or social -- data's true power lies in its ability
 
 
 
-But, if pressed, how would you **prove** it?
+
 
 ![Equator](Images/equatorsign.png)
 
