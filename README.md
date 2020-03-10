@@ -16,7 +16,7 @@ Whether financial, political, or social -- data's true power lies in its ability
 
 
 
-3. Inside your local git repository, create a directory for the Python API challenge. Use a folder name to correspond to the challenge: **WeatherPy**.
+
 
 4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
 
