@@ -32,7 +32,6 @@ Our final notebook :
 
 
 
-* The city data is generated based on random coordinates; as such, your outputs will not be an exact match to the provided starter notebook.
 
 * You may want to start this assignment by refreshing yourself on the [geographic coordinate system](http://desktop.arcgis.com/en/arcmap/10.3/guide-books/map-projections/about-geographic-coordinate-systems.htm).
 
