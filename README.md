@@ -43,5 +43,3 @@ Our final notebook :
 
 
 
-
-
