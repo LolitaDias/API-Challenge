@@ -24,7 +24,7 @@ Our final notebook :
 
 
 
-* Create a new GitHub repository for this project called `API-Challenge` (note the kebab-case). **Do not add to an existing repo**
+
 * You must complete your analysis using a Jupyter notebook.
 * You must use the Matplotlib or Pandas plotting libraries.
 * You must include a written description of three observable trends based on the data.
